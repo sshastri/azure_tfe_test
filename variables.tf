@@ -3,3 +3,8 @@ variable "tags" {
   type        = map
   default     = {}
 }
+
+variable "name" {
+  type    = string
+  default = ""
+}
