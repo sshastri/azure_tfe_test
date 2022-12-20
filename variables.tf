@@ -8,3 +8,8 @@ variable "name" {
   type    = string
   default = ""
 }
+
+variable "random" {
+  type    = string
+  default = ""
+}
